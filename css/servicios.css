@@ -1,0 +1,12 @@
+.sec__items{
+  display:flex;
+  justify-content: center; 
+}
+h3{
+  text-align:center;
+}
+.card__img{
+  width:22vw;
+  height:68vh;
+  border-radius:8px;
+}
